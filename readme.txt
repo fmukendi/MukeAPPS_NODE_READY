@@ -39,3 +39,7 @@ git remote set-url origin git@github.com:fmukendi/MukeAPPS_NODE_READY.git
 git remote set-url origin https://github.com/fmukendi/MukeAPPS_NODE_READY.git
 
 git remote show origin
+
+git remote rm destination
+
+git remote -v
